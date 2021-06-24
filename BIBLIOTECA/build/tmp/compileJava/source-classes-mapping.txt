@@ -1,0 +1,20 @@
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/models/Autor.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.models.Autor
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/Application.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.Application
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/models/Livro.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.models.Livro
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/repositories/AutorRepository.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.repositories.AutorRepository
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/repositories/GeneroRepository.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.repositories.GeneroRepository
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/repositories/LivroRepository.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.repositories.LivroRepository
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/models/Genero.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.models.Genero
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/controllers/AutoresController.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.controllers.AutoresController
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/controllers/GenerosController.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.controllers.GenerosController
+br/com/fatecpompeia/bdag2021java2/wellintongarcia/biblioteca/controllers/LivrosController.java
+ br.com.fatecpompeia.bdag2021java2.wellintongarcia.biblioteca.controllers.LivrosController
